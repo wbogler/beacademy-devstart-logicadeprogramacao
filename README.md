@@ -1,7 +1,7 @@
 # beacademy-devstart-logicadeprogramacao
 ## Exercícios
 
- - [Exercício 1](https://github.com/wbogler/beacademy-devstart-logicadeprogramacao.git)
+ - [Exercício 1](https://github.com/wbogler/beacademy-devstart-logicadeprogramacao/pull/1/commits/549b09c2d845288012006a0a0e1b6c08cc30ec5f)
  - [Exercício 2](https://devsuperior.com.br/)
  - [Exercício 3](https://devsuperior.com.br/)
  - [Exercício 4](https://devsuperior.com.br/)
