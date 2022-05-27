@@ -16,7 +16,7 @@ public class Exec1 {
 	public void dados() {
 		System.out.println("nome: " + nome);
 		System.out.println("peso: " + peso+ " Kg");
-		System.out.println("altura: " + altura+ " m");
+		System.out.println("altura: " + altura+ " cm");
 	}
 
 }
