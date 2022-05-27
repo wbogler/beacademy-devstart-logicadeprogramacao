@@ -1,0 +1,3 @@
+Crie um programa que receba um valor de depósito
+do usuário e atualize o seu saldo. Ao final exiba o
+valor inicial o depósito e o saldo atual.
