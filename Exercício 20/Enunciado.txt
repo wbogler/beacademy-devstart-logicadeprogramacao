@@ -1,0 +1,2 @@
+Apresentar o total da soma obtida dos cem primeiros
+números inteiros.
