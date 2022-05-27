@@ -1,0 +1,6 @@
+Crie um programa que realize as 4 operações
+matemática a partir de dois números que serão
+digitados pelo usuário. Após isto imprima os
+valores na tela e em seguida pergunte se ele quer
+realizar novo cálculo, repetido as operações
+enquanto o usuário desejar continuar.
