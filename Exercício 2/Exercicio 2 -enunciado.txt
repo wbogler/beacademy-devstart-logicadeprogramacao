@@ -1,0 +1,9 @@
+Crie um programa que declare 3 variáveis para receber o Nome, o peso e a altura de uma pessoa.
+
+Ao final imprima os dados na tela. 
+
+2. Com base no programa anterior calcule e exiba ao
+final o Índice de Massa Corpórea(IMC) da pessoa
+sabendo que a fórmula para o cálculo é:
+
+IMC = peso/(altura*altura);
