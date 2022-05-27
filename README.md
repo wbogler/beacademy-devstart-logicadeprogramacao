@@ -2,7 +2,7 @@
 ## Exercícios
 
  - [Exercício 1](https://github.com/wbogler/beacademy-devstart-logicadeprogramacao/commit/40735cf44f9b9c46c914ca8eb6d25b3d4f9f9216)
- - [Exercício 2](https://devsuperior.com.br/)
+ - [Exercício 2](https://github.com/wbogler/beacademy-devstart-logicadeprogramacao/commit/d52041f814354bc1329ff92d49298666a86a5692)
  - [Exercício 3](https://devsuperior.com.br/)
  - [Exercício 4](https://devsuperior.com.br/)
  - [Exercício 5](https://devsuperior.com.br/)
