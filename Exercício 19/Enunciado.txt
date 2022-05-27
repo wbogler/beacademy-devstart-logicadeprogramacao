@@ -1,0 +1,4 @@
+Solicitar a idade de várias pessoas e imprimir:
+• Total de pessoas com menos de 18 anos.
+• Total de pessoas com mais de 60 anos.
+• O programa termina quando idade for =-99.
