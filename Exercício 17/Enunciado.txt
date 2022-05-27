@@ -1,0 +1,15 @@
+Crie um programa que permita ao usuário escolher a
+operação a realizar:
+1. Depósito;
+2. Saque;
+3. Transferência;
+4. Empréstimo;
+Em seguida solicite os dados para concretizar a
+operação e imprima o nome da operação feita e os
+dados referentes a ela. Exemplo:
+Depósito no Banco BOM agencia: 12-3 conta 1234-5
+para Marcos Monteiro. Saldo inicial: R$ 1000,00
+Depósito: R$500,00 Saldo final: R$ 1500,00.
+O programa deverá permitir ao usuário realizar
+quantas operações ele desejar, implemente a solução
+utilizando a estrutura enquanto.
