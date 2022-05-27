@@ -1,0 +1,6 @@
+Crie um programa que receba a idade da
+pessoa e a classifique de acordo com a tabela:
+
+menor de 18 anos          | Menor de idade
+maior de 18 e menor de 60 | Adulto
+Maior de 60               | Idoso
