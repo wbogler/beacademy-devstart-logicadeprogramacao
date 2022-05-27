@@ -1,0 +1,2 @@
+Crie um programa que receba do usuário um
+número e apresente a Tabuada deste.
