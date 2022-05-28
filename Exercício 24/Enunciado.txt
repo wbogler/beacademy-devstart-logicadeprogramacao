@@ -1,0 +1,7 @@
+Crie um programa que permita ao usuário
+cadastrar 5 clientes com os seguintes dados:
+• Nome;
+• CPF;
+• RG;
+• Endereço; e
+• Telefone.
