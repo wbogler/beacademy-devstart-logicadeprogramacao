@@ -1,0 +1,4 @@
+Faça um programa que solicite ao usuário o
+nome e o preço de 10 produtos e armazene-os
+em um vetor. Ao final imprima o nome e os
+valores correspondentes dos produtos.
